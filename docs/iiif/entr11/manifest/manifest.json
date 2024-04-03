@@ -1,0 +1,42 @@
+{
+  "id": "https://JuanDVillarraga.github.io/coleccion-final/iiif/entr11/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "PELI01"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://JuanDVillarraga.github.io/coleccion-final/iiif/entr11/manifest/canvas-1.json",
+      "items": [
+        {
+          "id": "https://JuanDVillarraga.github.io/coleccion-final/iiif/entr11/manifest/page-1.json",
+          "items": [
+            {
+              "id": "https://JuanDVillarraga.github.io/coleccion-final/iiif/entr11/manifest/image-1.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://JuanDVillarraga.github.io/coleccion-final/iiif/entr11/manifest/canvas-1.json",
+              "body": {
+                "id": "https://JuanDVillarraga.github.io/coleccion-final/iiif/entr11/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1200,
+                "width": 832
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 832,
+      "height": 1200,
+      "annotations": []
+    }
+  ]
+}

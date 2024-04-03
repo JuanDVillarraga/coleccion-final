@@ -1,0 +1,15 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://JuanDVillarraga.github.io/coleccion-final/iiif/tent10",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [],
+      "width": 512
+    }
+  ],
+  "width": 197,
+  "height": 284
+}

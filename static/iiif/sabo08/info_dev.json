@@ -1,0 +1,15 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "http://localhost:5173/coleccion-final/iiif/sabo08",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [],
+      "width": 512
+    }
+  ],
+  "width": 275,
+  "height": 183
+}

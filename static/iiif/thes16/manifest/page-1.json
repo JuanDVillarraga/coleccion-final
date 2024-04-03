@@ -1,0 +1,21 @@
+{
+  "id": "https://JuanDVillarraga.github.io/coleccion-final/iiif/thes16/manifest/page-1.json",
+  "items": [
+    {
+      "id": "https://JuanDVillarraga.github.io/coleccion-final/iiif/thes16/manifest/image-1.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://JuanDVillarraga.github.io/coleccion-final/iiif/thes16/manifest/canvas-1.json",
+      "body": {
+        "id": "https://JuanDVillarraga.github.io/coleccion-final/iiif/thes16/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 306,
+        "width": 256
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

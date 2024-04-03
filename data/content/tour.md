@@ -4,14 +4,15 @@ name: tour
 
 # Recorrido por la colección
 
-Esta colección de muestra recopila varias imágenes con representaciones alegóricas de América hechas tomadas de [Rijksstudio](https://www.rijksmuseum.nl/en), la colección digital del Rijks Museum de Países Bajos. Todas las imágenes usadas están en el dominio público.
+## Entre Tinieblas:
 
-Usa este archivo para incluir contenido que permita hacer un recorrido por la colección.
+Es una película española del director Pedro Almodóvar del año 1983. Retrata la vida en comunidad en el conveto de las Redentoras Humilladas, un grupo de hermanas bastate peculiares, que entienden la palabra de Dios desde el compañerismo cómplice o benevolente y permisivo de ciertos placeres, como el consumo de drogas alucinogenas. El sentimiento en común de este producto cultural es el trabajo y bienestar común bajo la categoría de comedia negra.
 
-Para poner una imagen correspondiente a un ítem de la colección en este recorrido, usa el formato convencional de Markdown con el que se insertan imágenes: `![TEXTO ALTERNATIVO](URL)`, pero, en vez de poner la url, pon el pid de la imagen precedido por un signo de interrogación. Por ejemplo: `![TEST](!AdriaenCollaert)`. Así se mostrará una imagen que, si se cliquea, te llevará al elemento de la colección correspondiente.
 
-Así:
 
-![TEST](!AdriaenCollaert)
 
-Puedes usar urls de imágenes externas con normalidad en el formato Markdown si no sigues esta convención.
+
+
+![Entre Tinieblas](!entr11)
+
+

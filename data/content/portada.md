@@ -4,13 +4,18 @@ name: home
 
 # Introducción
 
-Esta es una plantilla para la creación de coleciones culturales digitales basada en Svelte
+Esta es una Mini Colección elaborada en Serie Mini que da cuenta de diferentes productos culturales como: series de televisón, películas y videojuegos que entre los años 1980 al 2000 tuvierón como piedra angular el tema del Habitar Doméstico Colectivo. 
+La colección cuenta con 16 carátulas divididas entre cinco películas, diéz series de televisión y un videojuego. 
 
-Es similar a otros sistemas de computación mínima, como [Wax](https://minicomp.github.io/wax/) o [Collection Builder](https://collectionbuilder.github.io/), pero tiene como fin ser una herramienta educativa para las humanidades digitales acerca de conceptos esenciales relacionados con colecciones digitales (metadatos, ítems, protocolos, narrativas).
+Películas: La Estratégia del caracol - La Comunidad - Entre tinieblas - Como el gato y el ratón - Qué he hecho yo para merecer esto.
 
-En particular, Serie Mini tiene las siguientes características:
+Series de tv: Friends - Conjunto cerrado - Sabor a limón - El chavo del ocho - Tentaciones - O todos en la cama - Oki Doki - Te quiero pecas.
 
-- Interfaz en español
-- Es fácil de instalar (El código está basado en Svelte, no en Jekyll. No requiere contentedores de Docker)
-- Fácil de usar (Tiene una interfaz CLI que guía en el proceso de configuración y todos los elementos de la colección se disponen en una carpeta particular)
-- Fácil de publicar en Github Pages por defecto
+Videojuego: The Sims
+
+# Navegación 
+
+En esta Mini Colección el pantalla vidente podra acceder a metadatos de cada uno de los productos culturales publicados, filtrando su busqueda por categoría, año y país.   
+
+
+Habitar Doméstico Colectivo: para la presente colección entendido como el conjunto de dinámicas interactivas y relacionales ejercidas por actores y actantes en diferenres espacios habitados de uso compartido, como conjuntos cerrados, casas, apartamentos, entre otros.

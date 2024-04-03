@@ -1,0 +1,21 @@
+{
+  "id": "https://JuanDVillarraga.github.io/coleccion-final/iiif/chav05/manifest/page-1.json",
+  "items": [
+    {
+      "id": "https://JuanDVillarraga.github.io/coleccion-final/iiif/chav05/manifest/image-1.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://JuanDVillarraga.github.io/coleccion-final/iiif/chav05/manifest/canvas-1.json",
+      "body": {
+        "id": "https://JuanDVillarraga.github.io/coleccion-final/iiif/chav05/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 480,
+        "width": 720
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

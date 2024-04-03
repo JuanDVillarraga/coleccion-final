@@ -1,35 +1,53 @@
 const config = {
   "lang": "es",
   "localPort": "5173",
-  "base": "https://srsergiorodriguez.github.io",
-  "baseurl": "/serie-mini",
-  "title": "Serie Mini",
-  "subtitle": "Una plantilla para mini colecciones digitales",
-  "credits": "Por Sergio Rodríguez Gómez. Hecho con Serie Mini",
+  "base": "https://JuanDVillarraga.github.io",
+  "baseurl": "/coleccion-final",
+  "title": "Habitar Doméstico Colectivo",
+  "subtitle": "Colección de productos culturales: series tv, películas y videojuegos.",
+  "credits": "Por: Juan Darío Villarraga Pérez ",
   "copyright": "Todos los derechos reservados, 2024",
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
       {
-        "key": "label",
-        "label": "Nombre",
+        "key": "Nombre del producto",
+        "label": "Nombre del producto",
         "type": "text"
       },
       {
-        "key": "autor",
-        "label": "Autor",
+        "key": "Categoría",
+        "label": "Categoría",
         "type": "text"
       },
       {
-        "key": "fecha",
-        "label": "Fecha",
+        "key": "Año",
+        "label": "Año",
+        "type": "text"
+      },
+      {
+        "key": "País",
+        "label": "País",
+        "type": "text"
+      },
+      {
+        "key": "Género",
+        "label": "Género",
+        "type": "text"
+      },
+      {
+        "key": "Sentimiento en comun",
+        "label": "Sentimiento en comun",
         "type": "text"
       }
     ],
     "metadataToIndex": [
-      "label",
-      "autor",
-      "fecha"
+      "Nombre del producto",
+      "Categoría",
+      "Año",
+      "País",
+      "Género",
+      "Sentimiento en comun"
     ]
   }
 };
